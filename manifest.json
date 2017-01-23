@@ -1,3 +1,15 @@
 {
-
+	"name":"Google Sites",
+	"version":"1",
+	"manifest_version":2,
+	"description":"Open Google Sites From A Chrome App",
+	"app":{
+		"urls":["https://sites.google.com"],
+		"launch":{
+			"web_url":"https://sites.google.com"
+		}
+	},
+	"icons":{
+		
+	}
 }
